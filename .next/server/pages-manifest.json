@@ -1,0 +1,16 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/": "pages/index.js",
+  "/home/one": "pages/home/one.js",
+  "/support/knowledgebase": "pages/support/knowledgebase.js",
+  "/support/faq": "pages/support/faq.js",
+  "/support/contact": "pages/support/contact.js",
+  "/company/about": "pages/company/about.js",
+  "/company/affliate": "pages/company/affliate.js",
+  "/auth/login": "pages/auth/login.js",
+  "/auth/register": "pages/auth/register.js",
+  "/servers/pricing-4": "pages/servers/pricing-4.js",
+  "/home/page6": "pages/home/page6.js"
+}
